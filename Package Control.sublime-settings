@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"CSS Snippets",
+		"EJS 2",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"HTML5",
+		"JavaScript Snippets",
+		"jQuery",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Print to HTML",
+		"ReactJS",
+		"Ruby Slim",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	]
+}
