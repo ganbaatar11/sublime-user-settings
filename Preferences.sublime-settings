@@ -27,11 +27,12 @@
 		".woff",
 		"*/log"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Six",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -50,7 +51,7 @@
 	"scroll_past_end": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Oceanic Next.sublime-theme",
+	"theme": "Boxy Ocean.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
